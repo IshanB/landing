@@ -1,0 +1,14 @@
+.banner {
+  background-size: cover;
+  color: rgb(240, 240, 240);
+  height: 100vh;
+  margin: 0;
+  display: flex;
+
+}
+
+.banner .container {
+  position: relative;
+  top: 50vh;
+  text-align: left;
+}
